@@ -1,4 +1,5 @@
 {
   "reward" : 0,
-  "iap_style" : 0
+  "iap_style" : 0,
+  "ad_platform" : 1
 }
